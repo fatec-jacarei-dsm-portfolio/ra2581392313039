@@ -2,7 +2,7 @@
 
 ### Aluno: André Lucas de Almeida Sales
 ### Curso: Desenvolvimento de Software Multiplataforma
-### Turma: 5° Semestre de 2025
+### Turma: 1° semestre de 2023
 
 ---
 
